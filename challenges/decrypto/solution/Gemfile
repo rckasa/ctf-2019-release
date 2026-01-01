@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'singlogger'
-gem 'httparty'
+gem 'httparty', '>= 0.24.0'
